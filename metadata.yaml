@@ -1,0 +1,26 @@
+_repo: The-Reporter-Who-Made-Himself-King_407
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: The king's jackal.--The reporter who made himself king.
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Journalists -- 19th century -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: The Reporter Who Made Himself King
+url: http://www.gutenberg.org/ebooks/407
